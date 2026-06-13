@@ -19,3 +19,6 @@ app/build/
 .kotlin/
 *.apk
 *.aab
+*.docx
+*.pdf
+~$*
