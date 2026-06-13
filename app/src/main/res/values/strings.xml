@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">HabitFlow</string>
+
+    <!-- Splash -->
+    <string name="splash_tagline">Construye constancia, un día a la vez</string>
+
+    <!-- Auth -->
+    <string name="login_title">Iniciar sesión</string>
+    <string name="login_subtitle">Accede a tus hábitos personales</string>
+    <string name="register_title">Crear cuenta</string>
+    <string name="register_subtitle">Regístrate para comenzar</string>
+    <string name="username_label">Usuario</string>
+    <string name="password_label">Contraseña</string>
+    <string name="confirm_password_label">Confirmar contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="register_button">Registrarse</string>
+    <string name="no_account">¿No tienes cuenta? Regístrate</string>
+    <string name="have_account">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="registration_success">Cuenta creada. Inicia sesión para continuar.</string>
+
+    <!-- Home -->
+    <string name="home_title">Mis hábitos</string>
+    <string name="logout_content_description">Cerrar sesión</string>
+    <string name="add_habit_content_description">Agregar hábito</string>
+    <string name="empty_habits_title">Aún no tienes hábitos</string>
+    <string name="empty_habits_message">Toca el botón + para crear tu primer hábito</string>
+    <string name="habit_completed_content_description">Hábito completado</string>
+    <string name="habit_pending_content_description">Marcar hábito como completado</string>
+    <string name="frequency_daily">Diario</string>
+    <string name="frequency_weekly">Semanal</string>
+
+    <!-- Progress -->
+    <string name="progress_completed">%1$d de %2$d completados</string>
+    <string name="progress_subtitle_today">En tu periodo de hoy</string>
+    <string name="progress_subtitle_period">En tu periodo actual</string>
+    <string name="progress_best_streak">Mejor racha: %1$d</string>
+    <string name="streak_days">%1$d días</string>
+    <string name="streak_weeks">%1$d sem.</string>
+
+    <!-- Create / Edit Habit -->
+    <string name="create_habit_title">Nuevo hábito</string>
+    <string name="edit_habit_title">Editar hábito</string>
+    <string name="edit_habit_content_description">Editar hábito</string>
+    <string name="confirm">Confirmar</string>
+    <string name="reminder_label">Recordatorio</string>
+    <string name="reminder_switch_label">Activar recordatorio</string>
+    <string name="reminder_time_label">Hora: %1$s</string>
+    <string name="reminder_picker_title">Elegir hora</string>
+    <string name="reminder_permission_denied">Se necesita permiso de notificaciones para recordatorios</string>
+    <string name="notification_channel_name">Recordatorios HabitFlow</string>
+    <string name="notification_channel_description">Recordatorios para completar tus hábitos</string>
+    <string name="notification_title">¿Completaste %1$s?</string>
+    <string name="notification_body">Toca para ver tu hábito</string>
+    <string name="habit_name_label">Nombre</string>
+    <string name="habit_description_label">Descripción (opcional)</string>
+    <string name="habit_frequency_label">Frecuencia</string>
+    <string name="save_habit_button">Guardar hábito</string>
+    <string name="back_content_description">Volver</string>
+
+    <!-- Habit Detail -->
+    <string name="habit_detail_title">Detalle del hábito</string>
+    <string name="history_title">Historial de cumplimiento</string>
+    <string name="empty_history_message">Aún no hay registros de cumplimiento</string>
+    <string name="delete_habit_button">Eliminar hábito</string>
+    <string name="delete_habit_title">Eliminar hábito</string>
+    <string name="delete_habit_message">¿Estás seguro? Se eliminarán todos los registros de cumplimiento.</string>
+    <string name="delete_confirm">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="no_description">Sin descripción</string>
+</resources>
